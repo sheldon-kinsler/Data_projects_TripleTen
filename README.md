@@ -7,4 +7,4 @@ Projects I worked on while attending the Business Intelligence Analytics TripleT
 | 1 | Airbnb Market Analysis| The project task was to analyze the vacation rental market in the Manhattan borough of New York City to find the best investments. |
 | 2 | Zuber Ride Sharing Analysis | The project task was to analyze data from various ride sharing companies and test a hypothesis about the impact of weather on ride frequency. |
 | 3 | Event Data Analysis | The project task was to analyze raw event logs of users and build funnels, acquisition cohorts, and calculate retention rates to understand user activity across a company's website. |
-| 4 | Superstore Visualization | The project task was to review the superstore’s operations and increase its profitability to avoid bankruptcy. |
+| 4 | Superstore Visualization | The project task was to review data to understand what is causing customers to return their orders and how to reduce the volume of returned orders. |
